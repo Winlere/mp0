@@ -1,5 +1,5 @@
 /* Your JS here. */
-console.log('Hello World!')
+console.log("Hello World!");
 
 const button1 = document.getElementById("button1");
 const button2 = document.getElementById("button2");

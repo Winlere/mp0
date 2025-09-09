@@ -21,7 +21,11 @@
   text-align: center;
   width: 80%;
   /* nw to se */
-  background: linear-gradient(to bottom right, rgb(130, 204, 228), rgb(224, 234, 235));
+  background: linear-gradient(
+    to bottom right,
+    rgb(130, 204, 228),
+    rgb(224, 234, 235)
+  );
   padding: 20px;
   border-radius: 10px;
   /* padding top and bottom */
@@ -38,9 +42,6 @@
   /* move the text slightly right to maintain visual balance*/
   /* value depend on the width of the text */
   transform: translateX(calc(3%));
-  
-  
-  
 }
 
 .logos {
@@ -50,5 +51,5 @@
 }
 
 .email {
-  font-family: 'STIX Two Math', 'Cambria Math', 'Times New Roman', serif;
+  font-family: "STIX Two Math", "Cambria Math", "Times New Roman", serif;
 }
