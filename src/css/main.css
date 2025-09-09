@@ -17,11 +17,16 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 50px;
   text-align: center;
-  width: 94%;
-  background-color: #9acbea;
+  width: 80%;
+  /* nw to se */
+  background: linear-gradient(to bottom right, rgb(130, 204, 228), rgb(169, 237, 169));
   padding: 20px;
   border-radius: 10px;
+  /* padding top and bottom */
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .bio {
