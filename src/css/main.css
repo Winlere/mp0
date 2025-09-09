@@ -38,7 +38,6 @@
   margin-left: 5%;
   margin-right: 5%;
   text-align: left;
-  display: inline-block;
   /* move the text slightly right to maintain visual balance*/
   /* value depend on the width of the text */
   transform: translateX(calc(3%));
